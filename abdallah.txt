@@ -1,7 +1,1 @@
-test Abdallah
-ahgsdfvsdf --a
-<<<<<<< HEAD
-hasvfhgsdvf
-=======
-jwgrgrb
->>>>>>> 2f8feda12cad0e14a66e7680dac41e00befd9ba6
+test
